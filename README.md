@@ -1,11 +1,10 @@
 # PTSD (Performance testing sandbox + docker)
-# 🚀 Performance Testing with k6, InfluxDB & Grafana
+### 🚀 k6, InfluxDB & Grafana
 
 A complete performance testing setup using k6 for load testing, InfluxDB for metrics storage, and Grafana for visualization.
 
 <img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/77b1d63a-b69a-4423-a0a1-9f2f98086a5a" />
 <img width="470" height="240" alt="image" src="https://github.com/user-attachments/assets/ba21faa5-edf1-4e16-ad4b-6225a2f2eafe" />
-
 
 
 ## 📁 Repository Structure
